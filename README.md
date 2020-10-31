@@ -8,5 +8,5 @@
 </p>
 
 ## Laravel-crud
-Its a Laravel crud(Create, read, update and delete) operation. Firstly you need to sign up to access home.
-https://github.com/abdullahmamunn/laravel-crud/blob/master/ss4.PNG
+Its a Laravel crud(Create, read, update and delete) operation. Firstly you need to sign up to access home.Click <a href="https://github.com/abdullahmamunn/laravel-crud/blob/master/ss4.PNG"> here to view.
+
